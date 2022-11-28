@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LicensePlate", "src\LicensePlate.pyproj", "{A1470427-008F-4B14-9F1F-C1F79C5B690F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1470427-008F-4B14-9F1F-C1F79C5B690F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1470427-008F-4B14-9F1F-C1F79C5B690F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87AA836B-4E66-417C-8FE9-B4F24EE26CA9}
+	EndGlobalSection
+EndGlobal
